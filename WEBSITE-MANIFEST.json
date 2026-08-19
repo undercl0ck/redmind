@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Redmind Security",
+  "slug": "redmind-security",
+  "createdAt": "2026-08-18T02:27:10.873Z",
+  "generator": {
+    "project": "golden-ratio-web-design-studio",
+    "command": "npm run new:website"
+  },
+  "inputImport": {
+    "source": "inputs/redmind-security",
+    "destination": "output/redmind-security/inputs/user-submitted",
+    "fileCount": 3,
+    "status": "copied"
+  },
+  "paths": {
+    "root": "output/redmind-security",
+    "handoff": "output/redmind-security/HANDOFF.md",
+    "inputs": "output/redmind-security/inputs",
+    "inputInventory": "output/redmind-security/inputs/INPUT-INVENTORY.json",
+    "designSources": "output/redmind-security/designs",
+    "exportedAssets": "output/redmind-security/exports",
+    "implementation": "output/redmind-security/src",
+    "specifications": "output/redmind-security/specs",
+    "visualTests": "output/redmind-security/tests/visual"
+  },
+  "status": "review-ready"
+}

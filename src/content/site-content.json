@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "title": "REDMIND Security | Cybersecurity and Cognitive Resilience",
+    "description": "Practical cybersecurity and cognitive-resilience guidance for regulated organizations protecting systems, information, people, and judgment."
+  },
+  "brand": {
+    "name": "REDMIND Security",
+    "homeLabel": "REDMIND Security home",
+    "logoAlt": "REDMIND Security"
+  },
+  "accessibility": {
+    "skipLink": "Skip to content"
+  },
+  "navigation": {
+    "primaryLabel": "Primary",
+    "footerLabel": "Footer",
+    "menuOpenLabel": "Open menu",
+    "menuCloseLabel": "Close menu",
+    "items": [
+      { "label": "Perspective", "href": "#perspective", "footerLabel": "Perspective section" },
+      { "label": "Domains", "href": "#domains", "footerLabel": "Domains section" },
+      { "label": "Capabilities", "href": "#capabilities", "footerLabel": "Capabilities section" },
+      { "label": "Approach", "href": "#approach", "footerLabel": "Approach section" },
+      { "label": "Contact", "href": "#contact", "footerLabel": "Contact section" }
+    ]
+  },
+  "hero": {
+    "eyebrow": "Cybersecurity + Cognitive Resilience",
+    "headline": "Protect the systems you run—and the judgment you rely on.",
+    "support": "REDMIND Security helps regulated organizations defend critical data, infrastructure, information systems, people, and decision-making from technical threats and cognitive warfare.",
+    "primaryCta": "Start a security conversation",
+    "secondaryCta": "Explore our approach"
+  },
+  "confidence": {
+    "regionLabel": "Confidence outcomes",
+    "outcomes": [
+      { "title": "Technical clarity", "description": "See critical exposure clearly and act on the priorities that matter most." },
+      { "title": "Cognitive resilience", "description": "Recognize manipulation, influence, and disinformation before they distort action." },
+      { "title": "Decision confidence", "description": "Strengthen the systems and judgment leaders rely on under pressure." }
+    ]
+  },
+  "thesis": {
+    "eyebrow": "A security point of view",
+    "title": "Trusted systems are only half the equation.",
+    "body": "Organizations depend on infrastructure, information, people, and judgment working together. Technical vulnerabilities can expose data and systems; cognitive warfare can exploit uncertainty, manipulate perception, and degrade decisions. REDMIND Security connects these risk domains so leaders can protect what they operate, what they trust, and how they act."
+  },
+  "domains": {
+    "title": "Four resilience domains",
+    "items": [
+      { "name": "Infrastructure", "description": "Networks, platforms, and operational foundations that keep essential services available and defensible." },
+      { "name": "Information systems", "description": "Applications, data, and control environments where integrity and access shape organizational trust." },
+      { "name": "People", "description": "Human behavior, awareness, and communication patterns targeted by social engineering and manipulation." },
+      { "name": "Judgment", "description": "Decision processes vulnerable to disinformation, influence operations, and adversarial distortion." }
+    ]
+  },
+  "capabilities": {
+    "title": "Security capabilities",
+    "items": [
+      { "title": "Threat and Risk Assessment", "description": "Identify critical assets, vulnerabilities, control gaps, and business exposure, then translate findings into prioritized decisions." },
+      { "title": "Adversarial Security Testing", "description": "Use penetration testing and realistic validation to examine whether technical defenses work under operational pressure." },
+      { "title": "Governance and Compliance Readiness", "description": "Translate governance and regulatory obligations into practical security priorities, accountable controls, and clearer readiness." },
+      { "title": "Human Security and Awareness", "description": "Strengthen recognition and response to phishing, social engineering, manipulation, and attacks that exploit human behavior." },
+      { "title": "Cognitive Threat Resilience", "description": "Prepare organizations to recognize and withstand disinformation, influence operations, and cognitive warfare tactics targeting judgment." }
+    ]
+  },
+  "engagement": {
+    "regionLabel": "Engagement approach",
+    "eyebrow": "REDMIND approach",
+    "title": "A clearer path from concern to action.",
+    "steps": [
+      { "step": "Understand", "description": "Map critical systems, information flows, stakeholders, decisions, and constraints." },
+      { "step": "Validate", "description": "Test assumptions and controls against realistic technical and cognitive threat conditions." },
+      { "step": "Prioritize", "description": "Turn evidence into a legible sequence of risk-informed decisions and actions." },
+      { "step": "Strengthen", "description": "Build durable improvements across infrastructure, information, people, and judgment." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Consultation preview",
+    "title": "Start a security conversation",
+    "description": "The consultation workflow is being prepared. This preview does not submit or store information.",
+    "status": "preview",
+    "form": {
+      "nameLabel": "Name",
+      "emailLabel": "Work email",
+      "prioritiesLabel": "Security priorities",
+      "buttonLabel": "Consultation workflow coming soon"
+    }
+  },
+  "footer": {
+    "statement": "Cybersecurity and cognitive resilience for trusted decisions.",
+    "copyright": "© 2026 REDMIND Security"
+  }
+}
